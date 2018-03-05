@@ -1,7 +1,8 @@
 package com.skilldistillery.projects.makechange;
+
 import java.util.Scanner;
 
-public class MakeChange {
+public class MakeChange2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
